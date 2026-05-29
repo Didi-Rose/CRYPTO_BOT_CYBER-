@@ -1,0 +1,90 @@
+=== ANALYSE AUTOMATIQUE DES SITES EMPLOI ===
+
+Date : 2026-05-29
+
+Source : Civils de la Défense
+URL : https://contractuels.civils.defense.gouv.fr/offresdemploi
+Mots-clés trouvés :
+- SSI
+- cybersécurité
+- SOC
+- data
+- IA
+- Ministère des Armées
+- management
+------------------------------------------------------------
+Source : DRSD
+URL : https://drsd.ernest.pattersonsoft.com/jobs
+Mots-clés trouvés :
+- IA
+------------------------------------------------------------
+Source : Commissariat au Numérique de Défense
+URL : https://www.defense.gouv.fr/cnd
+Mots-clés trouvés :
+- transformation numérique
+- SSI
+- SOC
+- data
+- intelligence artificielle
+- IA
+- CND
+- Ministère des Armées
+------------------------------------------------------------
+Source : Ministère de l'Intérieur
+URL : https://ministereinterieur-career.talent-soft.com/offre-de-emploi/liste-offres.aspx
+Mots-clés trouvés :
+- conduite du changement
+- RSSI
+- SSI
+- SOC
+- gestion des risques
+- data
+- IA
+- renseignement
+- coordination
+- pilotage
+------------------------------------------------------------
+Source : DGSI
+Mode : manuel
+Action : vérifier manuellement ou via alerte email
+------------------------------------------------------------
+Source : DGSE
+URL : https://www.dgse.gouv.fr/fr/le-recrutement/nos-offres-d-emploi
+Mots-clés trouvés :
+- SSI
+- SOC
+- data
+- IA
+- DGSE
+- Ministère des Armées
+- renseignement
+- pilotage
+------------------------------------------------------------
+Source : Choisir le Service Public - Numérique
+URL : https://choisirleservicepublic.gouv.fr/metiers/numerique/
+Mots-clés trouvés :
+- transformation numérique
+- RSSI
+- SSI
+- SOC
+- data
+- intelligence artificielle
+- IA
+- DGA
+- Ministère des Armées
+- renseignement
+- management
+- pilotage
+------------------------------------------------------------
+Source : Emploi Territorial
+URL : https://www.emploi-territorial.fr/dashboard
+Mots-clés trouvés :
+- SSI
+- data
+- IA
+- renseignement
+------------------------------------------------------------
+Source : Bpifrance
+Mode : manuel
+Action : vérifier manuellement ou via alerte email
+------------------------------------------------------------

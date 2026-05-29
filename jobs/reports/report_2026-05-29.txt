@@ -1,0 +1,61 @@
+=== RAPPORT RECHERCHE EMPLOI ===
+
+Date du rapport : 2026-05-29
+
+=== MOTS-CLES SURVEILLES ===
+
+- chef de projet numérique
+- chef de projet SI
+- responsable conduite de projets SI
+- RSSI
+- RSSI projet
+- SSI
+- gouvernance SI
+- coordination SIC
+- transformation numérique
+- pilotage portefeuille
+- cybersécurité
+- DRSD
+- DGA
+- DGSE
+- ANSSI
+- CND
+
+=== SOURCES SURVEILLEES ===
+
+- Civils de la Défense
+  URL : https://contractuels.civils.defense.gouv.fr/offresdemploi
+  Type : defense
+
+- DRSD
+  URL : https://drsd.ernest.pattersonsoft.com/jobs
+  Type : defense
+
+- Commissariat au Numérique de Défense
+  URL : https://www.defense.gouv.fr/cnd
+  Type : defense
+
+- Ministère de l'Intérieur
+  URL : https://ministereinterieur-career.talent-soft.com/offre-de-emploi/liste-offres.aspx
+  Type : interieur
+
+- DGSI
+  URL : https://www.dgsi.interieur.gouv.fr/travailler-a-dgsi/candidater
+  Type : interieur
+
+- DGSE
+  URL : https://www.dgse.gouv.fr/fr/le-recrutement/nos-offres-d-emploi
+  Type : defense
+
+- Choisir le Service Public - Numérique
+  URL : https://choisirleservicepublic.gouv.fr/metiers/numerique/
+  Type : fonction_publique
+
+- Emploi Territorial
+  URL : https://www.emploi-territorial.fr/dashboard
+  Type : territorial
+
+- Bpifrance
+  URL : https://talents.bpifrance.fr/connexion-compte-candidatures/
+  Type : innovation
+
