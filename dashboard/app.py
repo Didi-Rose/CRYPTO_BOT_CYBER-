@@ -50,9 +50,9 @@ if signal_data is None:
 
 signal_value = signal_data.get("signal", "N/A")
 decision_map = {
-    "BUY": "Achat",
-    "HOLD": "Attente",
-    "SELL": "Vente",
+    "BUY": "ACHAT (BUY)",
+    "HOLD": "ATTENTE (HOLD)",
+    "SELL": "VENTE (SELL)",
 }
 decision_text = decision_map.get(signal_value, "Inconnue")
 
